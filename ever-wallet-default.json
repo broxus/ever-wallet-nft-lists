@@ -1,0 +1,47 @@
+{
+	"items": [
+		{
+			"address": "0:4876694042b5b385318f2bd49f2eebf9d68913f1ccd723ab95c5ccb12979c8ba",
+			"title": "Broxie NFT",
+			"description": "Broxie NFT represents a world of hard workers from Broxus, who create, work and brainstorm every day, contributing to the development of the Everscale ecosystem. People are saying that Broxie owners may get special privileges in the Everscale ecosystem and on Broxus platforms. I can’t say for sure, so just keep this between us, alright?",ß
+			"preview": {
+			    "source": "https://ipfs.broxus.com/ipfs/QmWToMJG1RG8Xs1BA2VQkJ47sPYGutao3pDtNhJ9DsCJTV",
+			    "mimetype": "image/png"
+			},
+		  	"files": [
+			    {
+			      "source": "https://ipfs.broxus.com/ipfs/QmYiiR8H1HPVDkzkjxE514xCB722mc9CqY1QQ1hsieBE5f",
+			      "mimetype": "image/png"
+			    }
+		  	],
+			"external_url": "https://broxie.family/"
+		},
+		{
+			"address": "0:a7d0694c025b61e1a4a846f1cf88980a5df8adf737d17ac58e35bf172c9fca29",
+			"title": ".ever domains",
+  			"description": "Everscale domains .ever",
+			"preview": {
+			    "source": "https://img.evername.io/ever",
+			    "mimetype": "image/png"
+			},
+			"files": [],
+			"external_url": "https://evername.io"
+		},
+		{
+			"address": "0:0cd35b77b73df2ce86288cb8530cb6328363543f04da81687e43b3d5628c0bda",
+			"title": "ScalePunks — Reborn 2.0 Collection",
+  			"description": "ScalePunks is a collection of 10,000 unique punks sold out in 3 weeks in 2021, including 9 aliens, 24 apes, 88 zombies, 10 Durov’s and 1 secret punk. The rarity of ScalePunks is determined by its attributes, description and type. Some of them are super rare.",
+			"preview": {
+			    "source": "https://ipfs.grandbazar.io/ipfs/QmeVqpWpSaoWAMbTfGGammzaHAbbBogeGd8DUhiF8bgtNW",
+			    "mimetype": "image/png"
+			},
+			"files": [
+			    {
+			      "source": "https://ipfs.grandbazar.io/ipfs/QmeVqpWpSaoWAMbTfGGammzaHAbbBogeGd8DUhiF8bgtNW",
+			      "mimetype": "image/png"
+			    }
+			],
+			"external_url": "https://scalepunks.com/"
+		}
+	]
+}
