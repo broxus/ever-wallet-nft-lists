@@ -44,6 +44,22 @@
         }
       ],
       "external_url": "https://scalepunks.com/"
+    },
+    {
+      "address": "0:df7b78349b6b194997ee7d7afdb263cdd566c440371d320d1c06d519c6278c5b",
+      "title": "Everscale Community Achievements NFT",
+      "description": "Everscale Community Achievements NFTs are soulbound tokens that reflect your vital contributions: guiding newbies, spotting bugs, sharing announcements, exploring the ecosystem and more.",
+      "preview": {
+        "source": "https://ipfs.broxus.com/ipfs/QmdsLiAVfMjsGatgsJGxpXHfgPchJVm5UrayH2rzn1ndsi",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://ipfs.broxus.com/ipfs/QmadMXq4jGYsywwQbWqj5VgU4KxTKcYp7ExRUVabkBucEr",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": "https://everscale.network/"
     }
   ]
 }
